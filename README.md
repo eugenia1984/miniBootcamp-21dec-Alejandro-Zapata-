@@ -1,4 +1,4 @@
-#miniBootcamp with Alejandro Zapata
+# miniBootcamp with Alejandro Zapata
 ## What I did 🚀
 _Hi everyone, today I started a miniBootcamp with Alejandro Zapata. I hope to keep learning #HMTL, #CSS and #JS. And also hope I can be a git lover :_
 _Just let you know that it is the first DayChallenge, more will come and I will post_
